@@ -1,8 +1,9 @@
 # DEUSPROOF Notarize — GitHub Action
 
-Prove your work existed first, from CI. This action timestamps your work and
-anchors it to **Bitcoin** on a public, append-only ledger — a permanent,
-independently verifiable proof of priority. Free, no account, no key.
+Record when your work existed, from CI. This action timestamps your work
+(RFC 3161) and anchors it to **Bitcoin** on a public, append-only ledger — a
+permanent record of *when*, verifiable by anyone without trusting us. It proves
+when, not who. Free, no account, no API key.
 
 Two modes:
 
